@@ -1,0 +1,55 @@
+title: Letter to a friend (TODO create identifier for friend, and myself)
+comments:
+  - We need a way to talk about the structure of the myutu document.
+    This is separate from comments which can simply be included using the
+    standard YAML comment syntax (and I don't think these get parsed, so they
+    should only be notes on why the YAML doc was written a certain way).
+  - We need tags and also links. We have no standard syntax for either.
+  - We need a type system for entities, see Clojure's core.spec, which is
+    mindful of semantic web ideas, among others.
+author: glass.bead.person/dav
+description:
+  An old friend with an upper-middle-class lifestyle and I had a conversation
+  about "what can be done" given the current state of America and the increase
+  in intolerance.
+muyutu:
+  seed premise: maryland and california are "doing OK"
+  support: 
+    - I am aware of concrete reports of increases in discriminiation (including
+      violence) to women, Jews, apparently Muslim, and other people
+      <citation-needed>. My perception is that we are in the midst of the
+      largest slide backwards in terms of tolerance and inclusivity since I
+      became aware of the popular political landscape.
+    - Maryland and California may not have experienced a backslide in the
+      acceptance of racism and other forms of discriminiation, as has happened
+      in strongholds of <trumpism>. Things do seem worse where Trump had
+      greater support.
+    - cf. Southern Strategy
+  counterclaim-refinement:
+    - claim: Maryland in particular has a history of racism that profoundly
+        affects Baltimore schools
+      support: link to Gabe's description of the history of Baltimore and
+        schools
+      note: personal relationship exists between recipient and Gabe (this plus
+        initials would be enough to identify)
+    - The democratic agenda (and aid agendas in general) have suffered from a
+      lack of evaluation and assessment. This provides a rational basis for
+      Gov. Hogan's
+      - Lack of willingness to fund Baltimore schools
+      - desire to have an oversight committee
+  related:
+    - Issue of daughter's tendency to assert superiority is a common impulse
+      and runs counter (or at least orthogonal) to systemic well-being. What do
+      we do with that? I appreciate the impulse to at least keep it humble.
+  potential actions:
+      - Write a letter to both the Mayor's and Governor's office explaining
+        your situation and asking for guidance. You may mention the needs of
+        your own well-resourced daughter as well as the needs of others you
+        wish to highlight.
+      - Position within Exelon as a large company in Baltimore (and other
+        cities with severe urban poverty issues like Chicago - also a very
+        similar racial history there, originally being a *great* place for
+        people of color), there is an interest in making sure the community for
+        employees is a good one.
+        - This is distinct from the issues surrounding energy / climate, but
+          could potentially be synergetic.

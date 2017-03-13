@@ -1,0 +1,21 @@
+title: Dav's position on mental health and wellness in schools
+notes:
+  - Should tags and entities be separate things. cf. NIH and the way I link to
+    it.
+  - How do we differentiate links meant to identify vs. links meant to be part
+    of the rhetorical structure? I think this implies at least two different
+    kinds of links/things
+  - We don't have authority to define canonical entities in other organizations
+    (e.g., where we don't pay the rental fee on the domain)
+  - Maybe we should use a well-defined subset of YAML, cf. multiline strings
+    http://stackoverflow.com/questions/3790454/in-yaml-how-do-i-break-a-string-over-multiple-lines
+links:
+  NIH: gov.nih (entity we can resolve in our schema) OR
+    https://www.nih.gov (URL)
+  stuff: https://1drv.ms/f/s!ApuMaDZ_LOSJ73dy3_461swUmMp9
+description: >
+  Dav's current job spans executing and writing research papers on the
+  mechanistic bases of interventions spanning mindfulness/movement
+  interventions targeting NIH_ high-priority interventions.
+myutu:
+  - Dav wrote some stuff_ for a meeting
